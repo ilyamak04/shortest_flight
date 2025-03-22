@@ -1,6 +1,6 @@
 ### Start Project
 
-- `git clone`
+- `git clone <repo_url>`
 
 - `cd out`
 
