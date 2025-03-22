@@ -1,6 +1,8 @@
-#include flight_graph.hpp
+#include "flight_graph.hpp"
 #include <limits.h>
 #include <algorithm>
+#include <string>
+#include <vector>
 
 void FlightGraph::add_edge(const std::string& origin,
 	const std::string& destination,
